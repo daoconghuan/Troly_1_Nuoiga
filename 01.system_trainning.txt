@@ -228,3 +228,54 @@ Hiện tại không có vắc xin chuyên biệt phòng bệnh nấm diều (Can
 - Đồng Sulfat (CuSO4): Pha 1g/2-4 lít nước, cho uống 2 giờ/ngày trong 3-4 ngày.
 - Các sản phẩm đặc trị khác: BIO-FUNGICIDE ORAL, BIO-NEO, VINA-FLUNASOL Plus, ECO-ORIBIOTIC, ECO-NISTATIN. 
 
+7.7. Bệnh sưng phù đầu (corazy)
+Bệnh sưng phù đầu (Coryza) ở gà là bệnh hô hấp cấp tính do vi khuẩn Haemophilus paragallinarum gây ra.
+7.7.1. Nguyên nhân gây bệnh
+- Tác nhân chính: Vi khuẩn Haemophilus paragallinarum (hay Avibacterium paragallinarum).
+- Yếu tố thuận lợi: Môi trường chăn nuôi đông đúc, kém vệ sinh, ẩm ướt, thiếu thông thoáng; gà stress do thời tiết thay đổi; quản lý chuồng trại kém.
+7.7.2. Quá trình lây lan
+Qua đường hô hấp, thức ăn, nước uống nhiễm mầm bệnh, tiếp xúc trực tiếp. 
+7.7.3. Đối tượng dễ bị nhiễm
+Gà ở mọi lứa tuổi
+7.7.4. Dấu hiệu nhận biết 
+- Giai đoạn đầu: Sổ mũi, chảy nước mắt trong, thở khò khè, hơi thở có mùi hôi.
+- Giai đoạn nặng:
++ Sưng phù rõ rệt vùng đầu, mặt, tích (yếm).
++ Dịch mũi từ trong chuyển đặc, vón cục thành mủ trắng cứng ở hai bên mũi.
++ Mắt viêm kết mạc, có mủ, dính mí mắt khiến gà khó mở, nhìn mờ.
++ Gà mệt mỏi, xù lông, bỏ ăn, giảm 10-40% sản lượng trứng, có thể chết do biến chứng. 
+7.7.5. Vắc xin phòng bệnh
+Vắc-xin phòng bệnh Coryza (Sổ mũi truyền nhiễm) ở gà là vắc-xin bất hoạt, thường có các chủng A, B, C, giúp tạo miễn dịch đặc hiệu chống lại vi khuẩn Avibacterium paragallinarum. Các loại phổ biến gồm Nobilis® Coryza, Vaxxon Coryza 3, Medivac Coryza, và ITA Coryza ABC. Lịch tiêm phụ thuộc vào đối tượng gà (thịt, đẻ, giống), thường tiêm 2 mũi cho gà đẻ/giống, cách nhau 4-6 tuần, lúc gà được khoảng 6-10 tuần tuổi, và tiêm bắp hoặc dưới da cổ, liều 0.25-0.5ml/con, áp dụng cùng biện pháp an toàn sinh học để đạt hiệu quả cao nhất. 
+7.7.6. Thuốc điều trị  
+- Dùng kháng sinh đặc trị như Oracin-pharm, Superflo 200S3, F35/Flodoxy plus (hoặc các loại thuốc có tác dụng tương tự) trộn thức ăn hoặc pha nước uống 3-5 ngày.
+- Bổ sung vitamin (A, D3, E) và điện giải, men tiêu hóa để tăng sức đề kháng.
+- Vệ sinh chuồng trại, sát trùng định kỳ.
+7.8. Bệnh CRD ở gà
+Bệnh hô hấp mãn tính CRD hay còn gọi là bệnh "hen" gà là một bệnh truyền nhiễm phổ biến trên trên gia cầm.
+7.8.1. Nguyên nhân gây bệnh
+Bệnh thường xảy ra mạnh khi bị tác động bởi các yếu tố sau:
+Thay đổi thời tiết đột ngột
+Khi vận chuyển, chuyển đàn, ghép đàn…
+Mật độ nuôi quá dày
+Nền chuồng ẩm ướt, bụi bẩn, nồng độ khí NH3, H2S quá cao…
+Không đảm bảo độ thông thoáng của chuồng nuôi, đặc biệt là không đảm bảo tốc độ gió
+7.8.2. Quá trình lây lan
+Bệnh thường lây truyền dọc từ đàn mẹ truyền sang đàn con.
+ Bệnh cũng lây truyền ngang khi có tiếp xúc trực tiếp giữa các con bị nhiễm hoặc đã khỏi nhưng mang mầm bệnh sang đàn mẫn cảm.
+7.8.3. Đối tượng dễ bị nhiễm
+Bệnh chủ yếu do vi khuẩn Mycoplasma gallisepticum (MG) gây ra trên gà mọi lứa tuổi.
+7.8.4. Dấu hiệu nhận biết 
+- Gà bệnh khó thở, ủ rũ, mệt mỏi, ăn kém, xù lông chậm lớn
+- Gà bệnh hen khẹc, vẩy mỏ, chảy nước mắt, mũi, viêm mắt dẫn đến mù mắt
+- Mũi có chứa dịch viêm
+- Viêm khớp , các khớp sưng to, có dịch, tư thế ngồi khuỷu
+7.8.5. Vắc xin phòng bệnh
+Vắc xin phòng bệnh CRD (Hen mãn tính) ở gà có nhiều loại thương mại như VAXSAFE® MG, Nobilis® MG Inac, hoặc MYC-VAC, tập trung phòng tác nhân chính là Mycoplasma gallisepticum, thường dùng cho gà thịt, giống, tuổi từ 10-12 tuần tuổi. 
+7.8.6. Thuốc điều trị  
+- Thường xuyên vệ sinh sát trùng chuồng trại
+- Dùng kháng sinh để điều trị (Tylosin + Doxycycline, Timicosin + Doxycycline)
+- Dùng thuốc bổ trợ (long đờm, các loại vitamin)
+- Thời gian điều trị thường từ 7 – 10 ngày
+- Kết hợp phun thuốc sát trùng toàn bộ chuồng trại
+
+
